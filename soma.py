@@ -1,5 +1,5 @@
 def somaDoisValores(a,b):
-	return a + b
+	return a * b
 
 print("Olá pessoal, vamos somar?")
 
