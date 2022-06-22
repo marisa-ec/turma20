@@ -7,3 +7,5 @@ num1 = int(input('Valor do primeiro número: '))
 num2 = int(input('Valor do segundo número: '))
 
 print(somaDoisValores(num1, num2))
+
+print('teste')
